@@ -1,0 +1,5 @@
+/* Task 4: External CSS with class */
+.boxy {
+    border: solid 2px black;
+    box-shadow: 2px 2px 0px 0px gray;
+}
